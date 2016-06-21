@@ -8,6 +8,7 @@ public class SXI140530MergeSortImpl3 {
 	public static int x;
 	public static int m=10;
 	
+	//This is the MergeSort function
 	static int MergeSort(int A[],int B[],int p,int r) {
 		// TODO Auto-generated constructor stub
 		int q,h1=0,h2;
